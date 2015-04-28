@@ -1,4 +1,4 @@
 {
-  "base-linode" : {"hostname" : "wwi-varnish.rackdeploy.com" },
+  "base_linode" : {"hostname" : "wwi-varnish.rackdeploy.com", "longview_id" : "0E3B4C2F-08E0-5ECC-FCAE935BCD4E804B" },
   "run_list": [ "recipe[apt]", "recipe[base-linode]" ]
 }
