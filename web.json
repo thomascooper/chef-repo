@@ -1,3 +1,4 @@
 {
+  "base-linode" : {"hostname" : "wwi-varnish.rackdeploy.com" },
   "run_list": [ "recipe[apt]", "recipe[base-linode]" ]
 }
